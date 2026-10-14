@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Mail, ArrowUpRight, Download } from "lucide-react";
 
-const EMAIL = "your-email@example.com";
+const EMAIL = "gurramsandhya2013@gmail.com";
 
 export default function Contact() {
   return (
@@ -59,7 +59,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/sandhya-gurram"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center gap-2 text-sm text-gray-300 transition hover:text-violet-300"
