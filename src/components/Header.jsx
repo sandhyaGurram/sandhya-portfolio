@@ -18,20 +18,21 @@ export default function Header() {
         >
           <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-violet-400/30 bg-violet-400/10 px-4 py-2 text-sm text-violet-300">
             <Sparkles size={16} />
-            Shopify & Frontend Developer
+            Shopify Developer & E-commerce Specialist
           </div>
 
           <p className="mb-3 text-lg text-gray-400">Hello, I'm Sandhya 👋</p>
 
           <h1 className="text-5xl font-bold leading-tight tracking-tight sm:text-6xl xl:text-7xl">
             I build
-            <span className="block text-violet-400">digital experiences.</span>
+            <span className="block text-violet-400">Shopify experiences.</span>
           </h1>
 
           <p className="mt-7 max-w-xl text-base leading-8 text-gray-400 sm:text-lg">
-            I create responsive Shopify storefronts, custom e-commerce
-            experiences, and web applications using modern frontend
-            technologies.
+            Shopify Developer specializing in Liquid theme customization,
+            e-commerce integrations, responsive storefronts, performance
+            optimization, and SEO. I also build web applications using React and
+            modern JavaScript technologies.
           </p>
 
           <div className="mt-9 flex flex-wrap gap-4">
